@@ -1,6 +1,12 @@
+
 def square_array(numbers)
-  # your code here
- numbers = [1,2,3]
-square_array= numbers**2
+  numbers = [1,2,3]
+ count = 0
+  while count < numbers.length do
+    puts i**2
+    end
+  end
 end
-puts square_array
+
+
+square_array(numbers)
